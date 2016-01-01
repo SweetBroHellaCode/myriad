@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.sweetcodehellabro.MyriadApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.571 sec - in io.sweetcodehellabro.MyriadApplicationTests
